@@ -72,7 +72,6 @@ text-align: center;
 }
 
  .text{
-    display: block;
     width: auto;
     height: auto;
     display: table-cell;
